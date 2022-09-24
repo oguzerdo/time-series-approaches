@@ -21,7 +21,7 @@ The objective of this competition is to predict 3 months of item-level sales dat
 
 # Requirements
 
-```python
+```
 lightgbm==3.1.1
 matplotlib==3.5.2
 numpy==1.22.3
